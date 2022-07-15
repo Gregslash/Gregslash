@@ -8,7 +8,7 @@
 
 -Currently learning Python
 
--Some of my previous projects include
+   -Some of my previous projects include
 
     .A EV3 that can solve the Rubix Cube
 
