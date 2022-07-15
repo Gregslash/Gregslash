@@ -1,6 +1,6 @@
 - Hi, I’m @Gregslash
 
--I have a background with both Hardware Engineering and Software Engineering 
+-I have backgrounds with both Hardware Engineering and Software Engineering 
 
 -More Comfortable with Software Engineering Though
 
@@ -20,6 +20,8 @@
   
     .A Device that uses a Rassberry Pi and IOT to check the levels of Humidity, Tempreture, etc.
 
+    .A Basic chatbot using Python 3
+    
 - I'm also intrested in learning Artificial Intelligence
 
 - And Unity
